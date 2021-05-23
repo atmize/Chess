@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\Alex\Projects\Chess\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Manually added
+*.txt
+playground.py
+*.iml
+/../../../../../../:\Users\Alex\Projects\Chess\.idea
